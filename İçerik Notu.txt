@@ -1,0 +1,10 @@
+Hesap makinem daha önce gördüðümüz 
+
+-fonksiyonlar
+-modüller
+-time.sleep
+-while True
+-if , elif , else 
+-try, except
+
+kullanýlarak yapýlmýþtýr.
